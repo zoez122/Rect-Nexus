@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1792770656640,
+      "tag": "0000_peaceful_gamma_corps",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1792771493895,
+      "tag": "0001_premium_mongoose",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1792777539005,
+      "tag": "0002_multi_store",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+ALTER TABLE `orders` ADD `source` text DEFAULT '未知' NOT NULL;
